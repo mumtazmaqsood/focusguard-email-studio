@@ -37,7 +37,8 @@ FocusGuard is an Android app that helps people spend less time on Facebook, X an
 - **No guarantees.** We may say FocusGuard *helps* you focus and gives you time back. We never say it "guarantees" focus, or promise results in a set time (like "focused in 7 days").
 - **No "impossible to bypass".** The blocker can still be switched off in Accessibility settings, or the app uninstalled. Don't call it unbreakable or tamper-proof.
 - **Not every browser.** Websites are only checked in **Chrome** so far. Don't say it blocks Samsung Internet, Firefox or "all browsers".
-- **Android only.** Don't say it works on iPhone. Don't say it's on the Play Store until it actually is. For now, people install it from the APK on GitHub.
+- **Android only.** Don't say it works on iPhone.
+- **Install from Google Play.** Send people to the Google Play Store to install and update FocusGuard, not to the APK on GitHub. Only say "on Google Play" once the listing is live and public. Until then, link to the GitHub releases page and don't mention the Play Store.
 - **It's a test version.** Don't call it finished or "final". Invite feedback instead.
 - **No health or medical promises.** Don't say it cures phone addiction, ADHD, anxiety or sleep problems, or that it "detoxes" anything.
 - **Privacy, only what's true.** We *can* say: no internet permission, no ads, no analytics, nothing leaves your phone. Don't add anything beyond that.
