@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,parents,2026-09-14,waitlist form
+Tom,Becker,tom.becker@example.com,professionals,2026-09-22,waitlist form
+Bilal,Ahmed,bilal.ahmed@example.com,parents,2026-09-03,waitlist form
+Maria,Lopez,maria.lopez@example.com,parents,2026-09-18,waitlist form
+Sadia,Iqbal,sadia.iqbal@example.com,parents,2026-09-27,waitlist form
+James,Carter,james.carter@example.com,parents,2026-10-05,waitlist form
+Fatima,Malik,fatima.malik@example.com,parents,2026-10-12,waitlist form
+Daniel,Hughes,daniel.hughes@example.com,parents,2026-10-21,waitlist form
+Nadia,Rahman,nadia.rahman@example.com,parents,2026-11-02,waitlist form
+Hamza,Siddiqui,hamza.siddiqui@example.com,professionals,2026-09-08,waitlist form
+Sophie,Martin,sophie.martin@example.com,professionals,2026-09-30,waitlist form
+Usman,Tariq,usman.tariq@example.com,professionals,2026-10-07,waitlist form
+Emma,Larsen,emma.larsen@example.com,professionals,2026-10-14,waitlist form
+Imran,Chaudhry,imran.chaudhry@example.com,professionals,2026-10-19,waitlist form
+Priya,Sharma,priya.sharma@example.com,professionals,2026-10-28,waitlist form
+Lukas,Weber,lukas.weber@example.com,professionals,2026-11-04,waitlist form
+Zara,Hussain,zara.hussain@example.com,students,2026-09-05,waitlist form
+Ali,Raza,ali.raza@example.com,students,2026-09-16,waitlist form
+Hannah,Nielsen,hannah.nielsen@example.com,students,2026-09-25,waitlist form
+Omar,Farooq,omar.farooq@example.com,students,2026-10-02,waitlist form
+Chloe,Bennett,chloe.bennett@example.com,students,2026-10-10,waitlist form
+Ahmed,Nawaz,ahmed.nawaz@example.com,students,2026-10-17,waitlist form
+Leila,Haddad,leila.haddad@example.com,students,2026-10-26,waitlist form
+Noah,Jensen,noah.jensen@example.com,students,2026-11-06,waitlist form
