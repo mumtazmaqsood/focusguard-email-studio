@@ -16,7 +16,7 @@ Here's how it works:
 
 [Get FocusGuard on Google Play](https://play.google.com/store/apps/details?id=io.github.mumtazmaqsood.focusguard)
 
-A few honest notes. FocusGuard runs on Android 8.0 or newer, and it doesn't work on iPhone. Websites are checked in Chrome. And because it's a test version, your feedback really helps. Just reply to this email and tell us what you think.
+A few honest notes. FocusGuard runs on Android 8.0 or newer, and it doesn't work on iPhone. Websites are only checked in Chrome for now. And because it's a test version, your feedback really helps. Just reply to this email and tell me what you think.
 
 Next week, I'll walk you through setting it up with your partner, one small step at a time.
 

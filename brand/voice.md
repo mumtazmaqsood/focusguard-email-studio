@@ -9,6 +9,7 @@ FocusGuard is an Android app that helps people spend less time on Facebook, X an
 **Calm. Kind. Supportive.** We sound like a friendly coach: on the reader's side, encouraging, never judging. We celebrate small steps and talk about what people gain (time, focus, a clear mind), not what they're doing wrong.
 
 - Speak to the reader as "you". Short sentences, everyday words.
+- Write as Mumtaz, using "I", not "we". The emails come from one named person, so they shouldn't switch between "I" and "we".
 - Be warm but clear. Say exactly what to do next.
 - Never preachy, scary, guilt-tripping or pushy-salesy.
 
@@ -31,6 +32,7 @@ FocusGuard is an Android app that helps people spend less time on Facebook, X an
 - detox, digital detox (a health claim)
 - urgent hype: "last chance", "act now", "don't miss out"
 - "100%", "guaranteed", "forever", "never again"
+- "simple", "easy" (what's easy differs for everyone; say how many steps it takes instead)
 
 ## 4. Claims we must never make
 
@@ -43,6 +45,8 @@ FocusGuard is an Android app that helps people spend less time on Facebook, X an
 - **No health or medical promises.** Don't say it cures phone addiction, ADHD, anxiety or sleep problems, or that it "detoxes" anything.
 - **Privacy, only what's true.** We *can* say: no internet permission, no ads, no analytics, nothing leaves your phone. Don't add anything beyond that.
 - **No made-up numbers**, such as user counts, reviews or percentages we haven't measured.
+- **No promises we can't keep.** Don't say "I read every reply", and don't promise what future updates will bring. Say what replies and updates are for instead.
+- **Describe the features exactly.** Making the rules looser (wider or later allowed hours, a bigger limit, removing something from the block list) needs a partner code; making them stricter doesn't. Websites are blocked in Chrome only.
 
 ## 5. How we sign off
 
